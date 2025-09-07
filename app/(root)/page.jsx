@@ -1,4 +1,4 @@
-import Copmanies from '@/components/Copmanies'
+
 import Hero from '@/components/Hero'
 import React from 'react'
 
@@ -7,7 +7,8 @@ const page = () => {
     <div>
 
       <Hero/>
-      <Copmanies/>
+      
+   
     </div>
   )
 }
