@@ -28,7 +28,7 @@ const Hero = () => {
             Transform your freelancing career with our comprehensive courses. Learn proven strategies for Upwork success and master the art of persuasive copywriting.
           </p>
           
-          <div><ShimmerButton className="rounded-full">              Start Learning Today
+          <div><ShimmerButton className="rounded-full py-3">              Start Learning Today
           </ShimmerButton></div>          
         </div>
       </div>
