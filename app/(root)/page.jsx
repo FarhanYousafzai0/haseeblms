@@ -1,5 +1,6 @@
 
 import Hero from '@/components/Hero'
+import HowItWork from '@/components/HowItWork'
 import React from 'react'
 
 const page = () => {
@@ -7,6 +8,7 @@ const page = () => {
     <div>
 
       <Hero/>
+      <HowItWork/>
       
    
     </div>
